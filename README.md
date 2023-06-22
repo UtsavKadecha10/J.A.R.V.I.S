@@ -39,7 +39,10 @@ I have wrote code which you can use JARVIS in the following ways :
     ```
     $ git clone https://github.com/<your-github-username>/J.A.R.V.I.S.git
     ```
-- Make sure to install all the required python modules mentioned above or you can simply install them by 
+- Make sure to install all the required python modules mentioned above or you can simply install them by running following commands on the terminal
+    - pip install pyttsx3
+    - pip install speechRecognition
+    - pip install wikipedia
     
   
 That's it **#Enjoy** speaking with your computer friend 😁
