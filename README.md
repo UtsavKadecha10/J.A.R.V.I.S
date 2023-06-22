@@ -27,7 +27,7 @@ I have wrote code which you can use JARVIS in the following ways :
 
 ## These are the following modules used in JARVIS📚 :
 
-[SpeechRecognisation](https://pypi.org/project/SpeechRecognition/) | [pyttsx3](https://pypi.org/project/pyttsx3/) | [datetime](https://pypi.org/project/DateTime/) | [wikipedia](https://pypi.org/project/wikipedia/) | [smtplib](https://pypi.org/project/secure-smtplib/)
+[SpeechRecognisation](https://pypi.org/project/SpeechRecognition/) | [pyttsx3](https://pypi.org/project/pyttsx3/) | [datetime](https://pypi.org/project/DateTime/) | [os](https://pypi.org/project/os/) | [webbrowser](https://pypi.org/project/webbrowser/) | [wikipedia](https://pypi.org/project/wikipedia/) | [smtplib](https://pypi.org/project/secure-smtplib/)
 
 > *Note* : supported OS : **Windows**
 
